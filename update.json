@@ -1,8 +1,8 @@
 {
-  "versionCode": 6,
-  "versionName": "1.1.4",
-  "apkUrl": "https://raw.githubusercontent.com/planck100/family/main/releases/family-time-manager-v1.1.4.apk",
-  "sha256": "FD0384119A855EC911D9FC3661485C3A89542D8C81BC4698A3B7BE21B13B0620",
+  "versionCode": 7,
+  "versionName": "1.1.5",
+  "apkUrl": "https://raw.githubusercontent.com/planck100/family/main/releases/family-time-manager-v1.1.5.apk",
+  "sha256": "6F76602411AF472CEB2E708030855CC45E2851CDEEE2EC76CD53D549738BF200",
   "mandatory": false,
-  "releaseNotes": "修正商品與任務照片替換、取消或未提交時產生 Storage 孤兒圖片的問題。"
+  "releaseNotes": "新增每日與每週使用報表、圖片上傳壓縮，並強化伺服器圖片清理。"
 }
