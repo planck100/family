@@ -1,8 +1,8 @@
 {
-  "versionCode": 8,
-  "versionName": "1.1.6",
-  "apkUrl": "https://raw.githubusercontent.com/planck100/family/main/releases/family-time-manager-v1.1.6.apk",
-  "sha256": "58C957BE09E249285343E22B2C6C46A1938F809F2BF3CAECD5F0EEF97D453014",
+  "versionCode": 9,
+  "versionName": "1.1.7",
+  "apkUrl": "https://raw.githubusercontent.com/planck100/family/main/releases/family-time-manager-v1.1.7.apk",
+  "sha256": "CF5B175013CFBC21C6BAC70CAF1A7E30B8A053BA3BF9540BF241F41856020909",
   "mandatory": false,
-  "releaseNotes": "加入原創親子手繪插畫，補齊兒童首頁、任務、商店、時間歷程、鎖定與保護設定畫面，並改善每日／每週報表切換顯示。"
+  "releaseNotes": "修正兒童設備離線後重新連線時，同一筆遠端加時命令可能被多個背景同步流程重複套用的問題。"
 }
