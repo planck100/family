@@ -1,8 +1,8 @@
 {
-  "versionCode": 4,
-  "versionName": "1.1.2",
-  "apkUrl": "https://raw.githubusercontent.com/planck100/family/main/releases/family-time-manager-v1.1.2.apk",
-  "sha256": "7A5FE46D93318A5B7BDC33C2BCC2EF609D9248A63B18B78F3428158246B2B05C",
+  "versionCode": 5,
+  "versionName": "1.1.3",
+  "apkUrl": "https://raw.githubusercontent.com/planck100/family/main/releases/family-time-manager-v1.1.3.apk",
+  "sha256": "E0438F6391EB993F34BD71B575871A23B961EE43056A6E0985154A3ED35222D4",
   "mandatory": false,
-  "releaseNotes": "驗證家長授權更新、無障礙放行與資料保留。"
+  "releaseNotes": "新增任務與商品拍照，修正 Storage 圖片清理，已結束任務最多保留 3 天。"
 }
