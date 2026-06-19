@@ -1,8 +1,8 @@
 {
-  "versionCode": 9,
-  "versionName": "1.1.7",
-  "apkUrl": "https://raw.githubusercontent.com/planck100/family/main/releases/family-time-manager-v1.1.7.apk",
-  "sha256": "CF5B175013CFBC21C6BAC70CAF1A7E30B8A053BA3BF9540BF241F41856020909",
+  "versionCode": 10,
+  "versionName": "1.1.8",
+  "apkUrl": "https://raw.githubusercontent.com/planck100/family/main/releases/family-time-manager-v1.1.8.apk",
+  "sha256": "C8731E6E58026AD2D0011BE6712684284DB5333776992925F30182679BBDE6C1",
   "mandatory": false,
-  "releaseNotes": "修正兒童設備離線後重新連線時，同一筆遠端加時命令可能被多個背景同步流程重複套用的問題。"
+  "releaseNotes": "修正切換兒童任務、兌換商店與時間寶箱等頁面時，前景服務重新啟動導致未滿一分鐘就扣除一分鐘的問題。"
 }
