@@ -1,8 +1,8 @@
 {
-  "versionCode": 2,
-  "versionName": "1.1.0",
-  "apkUrl": "https://github.com/planck100/family/releases/download/v1.1.0/family-time-manager-v1.1.0.apk",
-  "sha256": "0000000000000000000000000000000000000000000000000000000000000000",
+  "versionCode": 3,
+  "versionName": "1.1.1",
+  "apkUrl": "https://raw.githubusercontent.com/planck100/family/main/releases/family-time-manager-v1.1.1.apk",
+  "sha256": "9B9876632C0ECA66D3F12D7EB8651B4780455CA7FA31B5596CB5178801FCD8E8",
   "mandatory": false,
-  "releaseNotes": "新增時間寶箱與 App 更新功能。"
+  "releaseNotes": "測試 App 自動更新流程與資料保留。"
 }
