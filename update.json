@@ -1,8 +1,8 @@
 {
-  "versionCode": 5,
-  "versionName": "1.1.3",
-  "apkUrl": "https://raw.githubusercontent.com/planck100/family/main/releases/family-time-manager-v1.1.3.apk",
-  "sha256": "E0438F6391EB993F34BD71B575871A23B961EE43056A6E0985154A3ED35222D4",
+  "versionCode": 6,
+  "versionName": "1.1.4",
+  "apkUrl": "https://raw.githubusercontent.com/planck100/family/main/releases/family-time-manager-v1.1.4.apk",
+  "sha256": "FD0384119A855EC911D9FC3661485C3A89542D8C81BC4698A3B7BE21B13B0620",
   "mandatory": false,
-  "releaseNotes": "新增任務與商品拍照，修正 Storage 圖片清理，已結束任務最多保留 3 天。"
+  "releaseNotes": "修正商品與任務照片替換、取消或未提交時產生 Storage 孤兒圖片的問題。"
 }
