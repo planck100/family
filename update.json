@@ -1,8 +1,8 @@
 {
-  "versionCode": 7,
-  "versionName": "1.1.5",
-  "apkUrl": "https://raw.githubusercontent.com/planck100/family/main/releases/family-time-manager-v1.1.5.apk",
-  "sha256": "6F76602411AF472CEB2E708030855CC45E2851CDEEE2EC76CD53D549738BF200",
+  "versionCode": 8,
+  "versionName": "1.1.6",
+  "apkUrl": "https://raw.githubusercontent.com/planck100/family/main/releases/family-time-manager-v1.1.6.apk",
+  "sha256": "58C957BE09E249285343E22B2C6C46A1938F809F2BF3CAECD5F0EEF97D453014",
   "mandatory": false,
-  "releaseNotes": "新增每日與每週使用報表、圖片上傳壓縮，並強化伺服器圖片清理。"
+  "releaseNotes": "加入原創親子手繪插畫，補齊兒童首頁、任務、商店、時間歷程、鎖定與保護設定畫面，並改善每日／每週報表切換顯示。"
 }
