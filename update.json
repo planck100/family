@@ -1,8 +1,8 @@
 {
-  "versionCode": 12,
-  "versionName": "1.1.10",
-  "apkUrl": "https://raw.githubusercontent.com/planck100/family/main/releases/family-time-manager-v1.1.10.apk",
-  "sha256": "D5A1CB8B785632027338E94A54711E52A90FD5D0200FACD65E962CB8C2A4BA38",
+  "versionCode": 13,
+  "versionName": "1.1.11",
+  "apkUrl": "https://raw.githubusercontent.com/planck100/family/main/releases/family-time-manager-v1.1.11.apk",
+  "sha256": "5DC114C2D56DAD4A8BEE2E38E15B9488C73456E8CAB9160291D222D9028EB038",
   "mandatory": false,
-  "releaseNotes": "裝置狀態改為圖像化顯示，新增家長要求孩童裝置快照功能，並修正每日／每週使用報表無資料的問題。"
+  "releaseNotes": "修正裝置快照無法查看或再次索取、快照錯誤提示與自動輪詢；改善今日及本週使用報表；裝置狀態改為僅顯示圖示並移除已使用分鐘數。"
 }
