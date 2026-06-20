@@ -1,8 +1,8 @@
 {
-  "versionCode": 11,
-  "versionName": "1.1.9",
-  "apkUrl": "https://raw.githubusercontent.com/planck100/family/main/releases/family-time-manager-v1.1.9.apk",
-  "sha256": "7600F856E1FCA02D7FC54918F6C8EB7F5D82923912F09ACC7C7140ABC699BF36",
+  "versionCode": 12,
+  "versionName": "1.1.10",
+  "apkUrl": "https://raw.githubusercontent.com/planck100/family/main/releases/family-time-manager-v1.1.10.apk",
+  "sha256": "A7EB149C823A26266736209F9881655739F090F7C02F543861FFECD5258F456B",
   "mandatory": false,
-  "releaseNotes": "新增緊急解鎖請求：孩子可在鎖定畫面留言請求 5 分鐘，經家長核准後才會增加時間並解除鎖定。"
+  "releaseNotes": "裝置狀態改為圖像化顯示，新增家長要求孩童裝置快照功能，並修正每日／每週使用報表無資料的問題。"
 }
