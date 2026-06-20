@@ -1,8 +1,8 @@
 {
-  "versionCode": 15,
-  "versionName": "1.1.13",
-  "apkUrl": "https://raw.githubusercontent.com/planck100/family/main/releases/family-time-manager-v1.1.13.apk",
-  "sha256": "7CD1BC4EE2C2DCA4C99D7E84D53AA5E19235D9631CFB96722CA5D6A7ABC395CA",
+  "versionCode": 16,
+  "versionName": "1.1.14",
+  "apkUrl": "https://raw.githubusercontent.com/planck100/family/main/releases/family-time-manager-v1.1.14.apk",
+  "sha256": "FB70D97F5A42DEFA7EB164C3A0AC02D350D45FFB78AF72ADC234F83FE1D65934",
   "mandatory": false,
-  "releaseNotes": "裝置快照可點擊放大查看；修正每日／每週報表誤用累積使用時間而顯示一千多分鐘的問題。"
+  "releaseNotes": "裝置快照大圖新增雙指縮放，並提供放大、縮小與重設按鈕，支援 1 至 5 倍縮放。"
 }
