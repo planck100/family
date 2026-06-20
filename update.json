@@ -1,8 +1,8 @@
 {
-  "versionCode": 13,
-  "versionName": "1.1.11",
-  "apkUrl": "https://raw.githubusercontent.com/planck100/family/main/releases/family-time-manager-v1.1.11.apk",
-  "sha256": "5DC114C2D56DAD4A8BEE2E38E15B9488C73456E8CAB9160291D222D9028EB038",
+  "versionCode": 14,
+  "versionName": "1.1.12",
+  "apkUrl": "https://raw.githubusercontent.com/planck100/family/main/releases/family-time-manager-v1.1.12.apk",
+  "sha256": "CF548AB01713B273771AEA741285ADAA3B65B6DCE07FEDD19A1F8245C82A083C",
   "mandatory": false,
-  "releaseNotes": "修正裝置快照無法查看或再次索取、快照錯誤提示與自動輪詢；改善今日及本週使用報表；裝置狀態改為僅顯示圖示並移除已使用分鐘數。"
+  "releaseNotes": "修正裝置快照上傳 403，改由安全的 Edge Function 覆寫固定快照檔案；裝置狀態圖示改為緊鄰顯示。"
 }
