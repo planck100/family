@@ -1,8 +1,8 @@
 {
-  "versionCode": 10,
-  "versionName": "1.1.8",
-  "apkUrl": "https://raw.githubusercontent.com/planck100/family/main/releases/family-time-manager-v1.1.8.apk",
-  "sha256": "C8731E6E58026AD2D0011BE6712684284DB5333776992925F30182679BBDE6C1",
+  "versionCode": 11,
+  "versionName": "1.1.9",
+  "apkUrl": "https://raw.githubusercontent.com/planck100/family/main/releases/family-time-manager-v1.1.9.apk",
+  "sha256": "7600F856E1FCA02D7FC54918F6C8EB7F5D82923912F09ACC7C7140ABC699BF36",
   "mandatory": false,
-  "releaseNotes": "修正切換兒童任務、兌換商店與時間寶箱等頁面時，前景服務重新啟動導致未滿一分鐘就扣除一分鐘的問題。"
+  "releaseNotes": "新增緊急解鎖請求：孩子可在鎖定畫面留言請求 5 分鐘，經家長核准後才會增加時間並解除鎖定。"
 }
