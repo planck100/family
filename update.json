@@ -1,8 +1,8 @@
 {
-  "versionCode": 20,
-  "versionName": "1.1.18",
-  "apkUrl": "https://raw.githubusercontent.com/planck100/family/main/releases/family-time-manager-v1.1.18.apk",
-  "sha256": "FDE05B195109E9BFC69103E29E7C92317B6C038ED8472F937C15A2D0AEFB6300",
+  "versionCode": 21,
+  "versionName": "1.1.19",
+  "apkUrl": "https://raw.githubusercontent.com/planck100/family/main/releases/family-time-manager-v1.1.19.apk",
+  "sha256": "6A7D8323FE3C71607E87D8D591253390E6CF28AADFA56195AC03161F31F05E44",
   "mandatory": false,
-  "releaseNotes": "改善 GPS 定位逾時，改為同時取得衛星與網路位置；移除重複的位置更新時間，快照成功後停止重複刷新圖片。"
+  "releaseNotes": "修正兒童裝置稽核紀錄被 Supabase RLS 拒絕；改由驗證裝置與家庭的安全 RPC 上傳，既有待傳紀錄會自動重試。"
 }
