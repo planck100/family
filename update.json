@@ -1,8 +1,8 @@
 {
-  "versionCode": 17,
-  "versionName": "1.1.15",
-  "apkUrl": "https://raw.githubusercontent.com/planck100/family/main/releases/family-time-manager-v1.1.15.apk",
-  "sha256": "9ADAE1F30E22960B8FFFAAB8233CF66D952101B144FCC87606D9BCB09048E55C",
+  "versionCode": 18,
+  "versionName": "1.1.16",
+  "apkUrl": "https://raw.githubusercontent.com/planck100/family/main/releases/family-time-manager-v1.1.16.apk",
+  "sha256": "82564D4ED1B6D496ABFDA7172AFB8BB4AEFE39FE15F46BD81F0BD6864644495C",
   "mandatory": false,
-  "releaseNotes": "裝置快照放大後支援拖曳平移，雙指可同時縮放與移動；重設會還原倍率與圖片位置。"
+  "releaseNotes": "裝置快照改為單指雙擊定位放大與拖曳平移；同一按鈕可取得快照與 GPS，並加入兒童端位置權限及 GPS 開啟引導。"
 }
