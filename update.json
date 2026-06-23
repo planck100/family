@@ -1,8 +1,8 @@
 {
-  "versionCode": 21,
-  "versionName": "1.1.19",
-  "apkUrl": "https://raw.githubusercontent.com/planck100/family/main/releases/family-time-manager-v1.1.19.apk",
-  "sha256": "6A7D8323FE3C71607E87D8D591253390E6CF28AADFA56195AC03161F31F05E44",
+  "versionCode": 22,
+  "versionName": "1.1.20",
+  "apkUrl": "https://raw.githubusercontent.com/planck100/family/main/releases/family-time-manager-v1.1.20.apk",
+  "sha256": "A7EBB1980B1FDAE9D1A7FE40D7F73AA0D19B71A78BAE36CD32809FBF4798F929",
   "mandatory": false,
-  "releaseNotes": "修正兒童裝置稽核紀錄被 Supabase RLS 拒絕；改由驗證裝置與家庭的安全 RPC 上傳，既有待傳紀錄會自動重試。"
+  "releaseNotes": "使用報表調整為最近 7 日並改善大量資料查詢；新增隱私權政策、敏感權限揭露及真正的帳號刪除後端；保留 GPS 與平板裝置快照功能。"
 }
