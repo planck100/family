@@ -1,7 +1,7 @@
 {
-  "versionCode": 28,
-  "versionName": "1.1.26",
+  "versionCode": 29,
+  "versionName": "1.1.27",
   "playStoreUrl": "https://play.google.com/store/apps/details?id=com.familytimemanager.app",
   "forceUpdate": false,
-  "releaseNotes": "時間錢包 1.1.26：新增應用程式鎖（用家長 PIN 管控 Play 商店等 App）、任務可一次指派多位孩子、家長暱稱與操作紀錄顯示操作人、裝置重裝自動沿用資料與家長登入自動回到家庭，並修正權限引導流程。"
+  "releaseNotes": "時間錢包 1.1.27：操作紀錄更完整（顯示操作人、對象與加扣分鐘明細）、家長可在裝置綁定頁設定成員暱稱、應用程式鎖只在孩子裝置顯示，並優化多項細節。"
 }
