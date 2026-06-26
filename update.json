@@ -1,8 +1,7 @@
 {
-  "versionCode": 22,
-  "versionName": "1.1.20",
-  "apkUrl": "https://raw.githubusercontent.com/planck100/family/main/releases/family-time-manager-v1.1.20.apk",
-  "sha256": "1F5A779F3D24EAD9EF4FF0BF1E293E5AAF401D3F22B48F8C7FF13E673E441765",
-  "mandatory": false,
-  "releaseNotes": "使用報表調整為最近 7 日並改善大量資料查詢；新增隱私權政策、敏感權限揭露及真正的帳號刪除後端；保留 GPS 與平板裝置快照功能。"
+  "versionCode": 28,
+  "versionName": "1.1.26",
+  "playStoreUrl": "https://play.google.com/store/apps/details?id=com.familytimemanager.app",
+  "forceUpdate": false,
+  "releaseNotes": "時間錢包 1.1.26：新增應用程式鎖（用家長 PIN 管控 Play 商店等 App）、任務可一次指派多位孩子、家長暱稱與操作紀錄顯示操作人、裝置重裝自動沿用資料與家長登入自動回到家庭，並修正權限引導流程。"
 }
