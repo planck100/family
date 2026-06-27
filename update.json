@@ -1,7 +1,7 @@
 {
-  "versionCode": 29,
-  "versionName": "1.1.27",
+  "versionCode": 30,
+  "versionName": "1.1.28",
   "playStoreUrl": "https://play.google.com/store/apps/details?id=com.familytimemanager.app",
   "forceUpdate": false,
-  "releaseNotes": "時間錢包 1.1.27：操作紀錄更完整（顯示操作人、對象與加扣分鐘明細）、家長可在裝置綁定頁設定成員暱稱、應用程式鎖只在孩子裝置顯示，並優化多項細節。"
+  "releaseNotes": "時間錢包 1.1.28：操作紀錄顯示操作人/對象/加扣明細、家長暱稱、重裝可沿用既有裝置、強化防移除與權限引導，並修正多項細節。"
 }
