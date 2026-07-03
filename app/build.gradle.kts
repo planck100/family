@@ -22,8 +22,8 @@ android {
         applicationId = "com.familytimemanager.app"
         minSdk = 26
         targetSdk = 35
-        versionCode = 29
-        versionName = "1.1.27"
+        versionCode = 32
+        versionName = "1.1.30"
         resValue(
             "string",
             "update_manifest_url",

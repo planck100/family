@@ -1,7 +1,7 @@
 {
-  "versionCode": 31,
-  "versionName": "1.1.29",
+  "versionCode": 32,
+  "versionName": "1.1.30",
   "playStoreUrl": "https://play.google.com/store/apps/details?id=com.familytimemanager.app",
   "forceUpdate": false,
-  "releaseNotes": "時間錢包 1.1.29：兒童模式新增反應遊戲，並修正多項細節。"
+  "releaseNotes": "\u7248\u672c 1.1.30\uff1a\u65b0\u589e\u904a\u6232\u5ee3\u5834\u8207\u8a18\u61b6\u7ffb\u724c\uff0c\u6574\u5408\u6642\u9593\u5bf6\u7bb1\u3001\u53cd\u61c9\u8003\u9a57\u8207\u904a\u6232\u5165\u53e3\uff0c\u4e26\u6539\u5584\u9060\u7aef\u63a7\u5236\u9001\u51fa\u4e2d\u7684\u72c0\u614b\u63d0\u793a\u3002"
 }
