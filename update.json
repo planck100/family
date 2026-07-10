@@ -1,7 +1,7 @@
 {
-  "versionCode": 33,
-  "versionName": "1.1.31",
+  "versionCode": 34,
+  "versionName": "1.1.32",
   "playStoreUrl": "https://play.google.com/store/apps/details?id=com.familytimemanager.app",
   "forceUpdate": false,
-  "releaseNotes": "\u7248\u672c 1.1.31\uff1a\u65b0\u589e\u6c34\u679c\u5207\u5207\u6a02\uff0c\u904a\u6232\u5ee3\u5834\u64f4\u5145\u70ba\u56db\u6b3e\u904a\u6232\uff0c\u4e26\u8b93\u5206\u985e\u904a\u6232\u8207\u8a18\u61b6\u7ffb\u724c\u4f7f\u7528\u4e00\u81f4\u7684\u73ab\u7470\u734e\u52f5\u8996\u7a97\u3002"
+  "releaseNotes": "\\u7248\\u672c 1.1.32\\uff1a\\u4fee\\u6b63\\u6c34\\u679c\\u5207\\u5207\\u6a02\\u3002"
 }
